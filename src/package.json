@@ -1,0 +1,13 @@
+{
+    "name": "wisdota-retrieve-server",
+    "version": "0.0.1",
+    "author": "fischerq",
+    "main": "retrieve-server.js",
+    "dependencies": {
+        "request": "^2.67.0",
+        "unbzip2-stream": "^1.0.8", 
+        "async": "^1.5.0",
+        "semaphore": "^1.0.3"
+    }
+}
+
